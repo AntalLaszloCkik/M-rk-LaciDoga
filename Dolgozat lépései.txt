@@ -1,0 +1,42 @@
+A: 1.git init
+   2. git remote add origin url
+   3.txt kreálása
+   4.változtatás a txt-ben
+   5.git add .
+   6.git commit -m "üzenet"
+   7.git push origin master
+   8.git branch f
+   9.git checkout f
+   10.git pull origin f
+   11.git checkout master
+   12.git add .
+   13.git commit -m "üzenete"
+   14.git push origin master
+   15.git checkout f
+   16.változtatás a txt-n
+   17.git add .
+   18.git commit -m "üzenet"
+   19.git push origin master
+   
+B:1.git init
+  2.git remote add origin url
+  3.git fetch
+  4.git pull origin master
+  5.változtatás a txt-n
+  6.git add .
+  7.git commit -m "üzenet"
+  8.git push origin master
+  9.git branch f
+  10.git checkout f
+  11.git add .
+  12.git commit -m "üzenet"
+  13.git push origin f
+  14.git checkout master
+  15.változtatás a txt-n
+  16.git add .
+  17.git commit -m "üzenet"
+  18.git push origin master
+  19.git pull origin f
+  20.git mrege origin/f
+  21.git add .
+  22.git commit -m "üzenet"
